@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {}
+    "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {
+    "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
