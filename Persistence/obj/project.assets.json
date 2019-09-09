@@ -4055,11 +4055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4080,8 +4080,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj"
+            "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj"
             }
           }
         }

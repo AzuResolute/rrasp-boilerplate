@@ -4074,11 +4074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Application\\obj\\",
+      "outputPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4099,11 +4099,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj"
+            "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj"
+            "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\roger\\Documents\\Projects\\Udemy\\rrasp-boilerplate\\Persistence\\Persistence.csproj"
             }
           }
         }
