@@ -23,8 +23,10 @@ class App extends Component {
       <div className="App">
         <Header as='h2'>
           <Icon name='users' />
-          <Header.Content>HELLOS!!!</Header.Content>
+          <Header.Content>React ASP Net Boilerplate</Header.Content>
         </Header>
+
+        <h3>By Roger Lester Palabasan</h3>
 
         <List>
           {this.state.values.map((value: any) => (
